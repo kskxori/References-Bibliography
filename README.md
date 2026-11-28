@@ -2,7 +2,7 @@
 
 * ### (Example of Edit Cite)
 
-* Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. *Science Advances*, *3*(7), e1700782. [https://doi.org/10.1126/sciadv.1700782](https://doi.org/10.1126/sciadv.1700782)
+* Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. *Science Advances*, *3*(7), e1700782. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://doi.org/10.1126/sciadv.1700782](https://doi.org/10.1126/sciadv.1700782)
 
 * ### (Second Example)
 
