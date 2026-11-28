@@ -1,4 +1,4 @@
-# References
+# References^1^
 
 
 * ### (Example of Edit Cite)
@@ -8,7 +8,7 @@
 
 
 
-# Bibliography
+# Bibliography^2^
 
 
-### (Example of Edit Cite)
+* ### (Example of Edit Cite)
