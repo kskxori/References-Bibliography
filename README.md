@@ -6,8 +6,8 @@
 
 * Smith, J. D., Reyes, M. L., & Tan, K. W. (2023). Catalytic and thermal pyrolysis of high-density polyethylene: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product distribution and fuel properties. *Journal of Analytical and Applied Pyrolysis*, *170*(4), 105892<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.jaap.2023.105892.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.jaap.2023.105892.
+
 * ### Ref
 
 <div style="padding-left: 2em; text-indent: -2em;">
