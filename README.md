@@ -4,10 +4,10 @@
 
 * ### (Second Example)
 
-* Smith, J. D., Reyes, M. L., & Tan, K. W. (2023). Catalytic and thermal pyrolysis<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of high-density polyethylene: Product distribution and fuel properties.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Analytical and Applied Pyrolysis*, *170*(4), 105892.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.jaap.2023.105892
+* Smith, J. D., Reyes, M. L., & Tan, K. W. (2023). Catalytic and thermal pyrolysis of high-density<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polyethylene: Product distribution and fuel properties. *Journal of Analytical<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Applied Pyrolysis*, *170*(4), 105892 https://doi.org/10.1016/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j.jaap.2023.105892.
 * ### Ref
 
 <div style="padding-left: 2em; text-indent: -2em;">
