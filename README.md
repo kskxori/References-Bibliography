@@ -1,4 +1,4 @@
-# References^1^
+# References<sub>1</sub>
 
 
 * ### (Example of Edit Cite)
