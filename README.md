@@ -33,6 +33,8 @@ Thermal decomposition of polyolefin waste yields liquid hydrocarbon fractions su
 
 <div style="padding-left: 2em; text-indent: -2em;">
 
+
+
 Arduino. (2024). *Arduino IDE* (Version 2.3.2) [Computer software]. GitHub. https://github.com/arduino/arduino-ide
 
 </div>
@@ -48,3 +50,5 @@ National Renewable Energy Laboratory. (2022). *Thermochemical conversion of wast
 Smith, J. D., Reyes, M. L., & Tan, K. W. (2023). Catalytic and thermal pyrolysis of high-density polyethylene: Product distribution and fuel properties. *Journal of Analytical and Applied Pyrolysis*, *170*(4), 105892. https://doi.org/10.1016/j.jaap.2023.105892
 
 </div>
+
+Smith, J. D., Reyes, M. L., & Tan, K. W. (2023). Catalytic and thermal pyrolysis of high-density polyethylene:         Product distribution and fuel properties. *Journal of Analytical and Applied Pyrolysis*, *170*(4), 105892.        [https://doi.org/10.1016/j.jaap.2023.105892](https://www.google.com/search?q=https://doi.org/10.1016/             j.jaap.2023.105892)
