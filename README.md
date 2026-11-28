@@ -7,7 +7,7 @@
 
 <div style="padding-left: 2em; text-indent: -2em;">
 
-Author, A. A., & Author, B. B. (2024). *Title of the article or report*. *Title of the Periodical*, *12*(3), 45–67. https://doi.org/10.xxxx/xxxxx
+Author, A. A., & Author, B. B. (2024). *Title of the article or report*. *Title of the Periodical*, *12*(3), 45–          67. https://doi.org/10.xxxx/xxxxx
 
 </div>
 
