@@ -7,7 +7,7 @@
 
 
 
-# Bibliography^2^
+# <sub>2</sub>Bibliography
 
 
 * ### (Example of Edit Cite)
